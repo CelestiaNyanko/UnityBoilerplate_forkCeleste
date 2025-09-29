@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here (Celete) https://CelestiaNyanko.github.io/UnityBoilerplate_forkCeleste/
+WebGL published here (Celete) [https://CelestiaNyanko.github.io/UnityBoilerplate_forkCeleste/]
 
 # Setup Steps:
 
